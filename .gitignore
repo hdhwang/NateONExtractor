@@ -1,0 +1,11 @@
+NateOnUserInfoExtract/Debug/
+NateOnUserInfoExtract/Release/
+*.pdb
+*.suo
+ipch/
+Debug/
+Release/
+*.db
+*.iobj
+*.ipdb
+*.opendb
